@@ -1,5 +1,7 @@
 # my-express-generator
 
+*Archived April 25. 2023. Outdated starter app*
+
 ### [expressjs.com](https://expressjs.com/)
 
 ### [github.com/expressjs](https://github.com/expressjs/express)
